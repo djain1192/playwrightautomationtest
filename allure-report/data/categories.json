@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Timeout of 30000ms exceeded.",
+      "children" : [ {
+        "name" : "Client App login",
+        "uid" : "bd1884e6b6b7a5d1",
+        "parentUid" : "243d80d303fd3cc7cb395edf69aec83a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1656414957202,
+          "stop" : 1656414988419,
+          "duration" : 31217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "243d80d303fd3cc7cb395edf69aec83a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

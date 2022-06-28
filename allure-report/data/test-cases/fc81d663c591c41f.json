@@ -1,0 +1,230 @@
+{
+  "uid" : "fc81d663c591c41f",
+  "name" : "Child windows hadl",
+  "fullName" : "Child windows hadl",
+  "historyId" : " UIBasicstest.spec.js Child windows hadl",
+  "time" : {
+    "start" : 1656414925594,
+    "stop" : 1656414929476,
+    "duration" : 3882
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1656414925594,
+        "stop" : 1656414925594,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "browserContext.newPage",
+      "time" : {
+        "start" : 1656414925603,
+        "stop" : 1656414925971,
+        "duration" : 368
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "page.goto(https://rahulshettyacademy.com/loginpagePractise/)",
+      "time" : {
+        "start" : 1656414925971,
+        "stop" : 1656414927233,
+        "duration" : 1262
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "browserContext.waitForEvent",
+      "time" : {
+        "start" : 1656414927237,
+        "stop" : 1656414927623,
+        "duration" : 386
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.click([href*='documents-request'])",
+      "time" : {
+        "start" : 1656414927239,
+        "stop" : 1656414927485,
+        "duration" : 246
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.textContent(.red)",
+      "time" : {
+        "start" : 1656414927624,
+        "stop" : 1656414928391,
+        "duration" : 767
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.type(#username, rahulshettyacademy.com)",
+      "time" : {
+        "start" : 1656414928392,
+        "stop" : 1656414928503,
+        "duration" : 111
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.textContent(#username)",
+      "time" : {
+        "start" : 1656414928504,
+        "stop" : 1656414928524,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1656414928525,
+        "stop" : 1656414929467,
+        "duration" : 942
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "f3f7c02006b7ba43",
+      "name" : "screenshot",
+      "source" : "f3f7c02006b7ba43.png",
+      "type" : "image/png",
+      "size" : 343608
+    }, {
+      "uid" : "bbc2cf33e218dde2",
+      "name" : "screenshot",
+      "source" : "bbc2cf33e218dde2.png",
+      "type" : "image/png",
+      "size" : 349491
+    }, {
+      "uid" : "931eefe929fd4cdc",
+      "name" : "screenshot",
+      "source" : "931eefe929fd4cdc.png",
+      "type" : "image/png",
+      "size" : 162650
+    }, {
+      "uid" : "48ce5d631d86a326",
+      "name" : "screenshot",
+      "source" : "48ce5d631d86a326.png",
+      "type" : "image/png",
+      "size" : 348466
+    }, {
+      "uid" : "e217eed2fd64b24b",
+      "name" : "screenshot",
+      "source" : "e217eed2fd64b24b.png",
+      "type" : "image/png",
+      "size" : 8787
+    }, {
+      "uid" : "d676dbb55a0f1e4b",
+      "name" : "stdout",
+      "source" : "d676dbb55a0f1e4b.txt",
+      "type" : "text/plain",
+      "size" : 23
+    }, {
+      "uid" : "2c4ff0c4cb640d57",
+      "name" : "stdout",
+      "source" : "2c4ff0c4cb640d57.txt",
+      "type" : "text/plain",
+      "size" : 1
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "attachmentsCount" : 7,
+    "stepsCount" : 9,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "UIBasicstest.spec.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc81d663c591c41f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,141 @@
+[ {
+  "uid" : "a85edc09ba5329c8",
+  "name" : "Place the order",
+  "time" : {
+    "start" : 1656414957173,
+    "stop" : 1656414968290,
+    "duration" : 11117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e5c11246e52cc1a",
+  "name" : "@API Test case 2",
+  "time" : {
+    "start" : 1656414957199,
+    "stop" : 1656414972549,
+    "duration" : 15350
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5fd0ea85c475928",
+  "name" : "Page Context Playwright test",
+  "time" : {
+    "start" : 1656414962038,
+    "stop" : 1656414968719,
+    "duration" : 6681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd1884e6b6b7a5d1",
+  "name" : "Client App login",
+  "time" : {
+    "start" : 1656414957202,
+    "stop" : 1656414988419,
+    "duration" : 31217
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4982e381617f09d6",
+  "name" : "@Web Popup validations",
+  "time" : {
+    "start" : 1656414957200,
+    "stop" : 1656414976787,
+    "duration" : 19587
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d55f79a9a1f6225c",
+  "name" : "Screenshot & Visual comparision",
+  "time" : {
+    "start" : 1656414976787,
+    "stop" : 1656414985769,
+    "duration" : 8982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c25cc3faea8d558a",
+  "name" : "@Web UI Controls",
+  "time" : {
+    "start" : 1656414982675,
+    "stop" : 1656414987270,
+    "duration" : 4595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "776f880a075867f1",
+  "name" : "Browser Context Playwright test",
+  "time" : {
+    "start" : 1656414957175,
+    "stop" : 1656414962037,
+    "duration" : 4862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a47738a1f5d8a444",
+  "name" : "visual",
+  "time" : {
+    "start" : 1656414985770,
+    "stop" : 1656414988830,
+    "duration" : 3060
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f430ab81231d96e1",
+  "name" : "Place the order",
+  "time" : {
+    "start" : 1656414957203,
+    "stop" : 1656414967426,
+    "duration" : 10223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60ce135d0860d683",
+  "name" : "@API Place the order",
+  "time" : {
+    "start" : 1656414957188,
+    "stop" : 1656414969380,
+    "duration" : 12192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e47866e8c5857387",
+  "name" : "Valid login details Playwright test",
+  "time" : {
+    "start" : 1656414975556,
+    "stop" : 1656414982673,
+    "duration" : 7117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fb5e7b153b289d",
+  "name" : "Invalid Login details Playwright test",
+  "time" : {
+    "start" : 1656414968720,
+    "stop" : 1656414975555,
+    "duration" : 6835
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54c67de1e643caa0",
+  "name" : "Child windows hadl",
+  "time" : {
+    "start" : 1656414987271,
+    "stop" : 1656414991216,
+    "duration" : 3945
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,269 @@
+{
+  " UIBasicstest.spec.js @Web UI Controls" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c25cc3faea8d558a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414982675,
+        "stop" : 1656414987270,
+        "duration" : 4595
+      }
+    } ]
+  },
+  " WebAPIPart1Test.spec.js @API Place the order" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60ce135d0860d683",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414957188,
+        "stop" : 1656414969380,
+        "duration" : 12192
+      }
+    } ]
+  },
+  " NetworkTest2.spec.js Place the order" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a85edc09ba5329c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414957173,
+        "stop" : 1656414968290,
+        "duration" : 11117
+      }
+    } ]
+  },
+  " UIBasicstest.spec.js Browser Context Playwright test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "776f880a075867f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414957175,
+        "stop" : 1656414962037,
+        "duration" : 4862
+      }
+    } ]
+  },
+  " UIBasicstest.spec.js Child windows hadl" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54c67de1e643caa0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414987271,
+        "stop" : 1656414991216,
+        "duration" : 3945
+      }
+    } ]
+  },
+  " UIBasicstest.spec.js Page Context Playwright test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b5fd0ea85c475928",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414962038,
+        "stop" : 1656414968719,
+        "duration" : 6681
+      }
+    } ]
+  },
+  " ClientAppPO.spec.js Client App login" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd1884e6b6b7a5d1",
+      "status" : "broken",
+      "statusDetails" : "Timeout of 30000ms exceeded.",
+      "time" : {
+        "start" : 1656414957202,
+        "stop" : 1656414988419,
+        "duration" : 31217
+      }
+    } ]
+  },
+  " UIBasicstest.spec.js Valid login details Playwright test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e47866e8c5857387",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414975556,
+        "stop" : 1656414982673,
+        "duration" : 7117
+      }
+    } ]
+  },
+  " NetworkTest1.spec.js Place the order" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f430ab81231d96e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414957203,
+        "stop" : 1656414967426,
+        "duration" : 10223
+      }
+    } ]
+  },
+  " MoreValidations.spec.js visual" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a47738a1f5d8a444",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414985770,
+        "stop" : 1656414988830,
+        "duration" : 3060
+      }
+    } ]
+  },
+  " UIBasicstest.spec.js Invalid Login details Playwright test" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2fb5e7b153b289d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414968720,
+        "stop" : 1656414975555,
+        "duration" : 6835
+      }
+    } ]
+  },
+  " MoreValidations.spec.js Screenshot & Visual comparision" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d55f79a9a1f6225c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414976787,
+        "stop" : 1656414985769,
+        "duration" : 8982
+      }
+    } ]
+  },
+  " MoreValidations.spec.js @Web Popup validations" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4982e381617f09d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414957200,
+        "stop" : 1656414976787,
+        "duration" : 19587
+      }
+    } ]
+  },
+  " WebAPIPart2Test.spec.js @API Test case 2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e5c11246e52cc1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414957199,
+        "stop" : 1656414972549,
+        "duration" : 15350
+      }
+    } ]
+  }
+}
