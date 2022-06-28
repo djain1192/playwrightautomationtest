@@ -1,0 +1,467 @@
+{
+  "uid" : "c2da7c46cdb4d3c7",
+  "name" : "Valid login details Playwright test",
+  "fullName" : "Valid login details Playwright test",
+  "historyId" : " UIBasicstest.spec.js Valid login details Playwright test",
+  "time" : {
+    "start" : 1656414914855,
+    "stop" : 1656414921509,
+    "duration" : 6654
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1656414914855,
+        "stop" : 1656414914855,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "browserContext.newPage",
+      "time" : {
+        "start" : 1656414914864,
+        "stop" : 1656414915307,
+        "duration" : 443
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "page.goto(https://rahulshettyacademy.com/loginpagePractise/)",
+      "time" : {
+        "start" : 1656414915308,
+        "stop" : 1656414916504,
+        "duration" : 1196
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "page.title",
+      "time" : {
+        "start" : 1656414916505,
+        "stop" : 1656414916515,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.fill(#username)",
+      "time" : {
+        "start" : 1656414916517,
+        "stop" : 1656414916599,
+        "duration" : 82
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.fill(#username)",
+      "time" : {
+        "start" : 1656414916600,
+        "stop" : 1656414916675,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.type([type='password'], learning)",
+      "time" : {
+        "start" : 1656414916676,
+        "stop" : 1656414916839,
+        "duration" : 163
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.click(#signInBtn)",
+      "time" : {
+        "start" : 1656414916840,
+        "stop" : 1656414916945,
+        "duration" : 105
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.textContent(.card-body a >> nth=0)",
+      "time" : {
+        "start" : 1656414916947,
+        "stop" : 1656414920373,
+        "duration" : 3426
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.textContent(.card-body a >> nth=1)",
+      "time" : {
+        "start" : 1656414920375,
+        "stop" : 1656414920701,
+        "duration" : 326
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.allTextContents(.card-body a)",
+      "time" : {
+        "start" : 1656414920702,
+        "stop" : 1656414920721,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1656414920723,
+        "stop" : 1656414921460,
+        "duration" : 737
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e6354f90604f62f9",
+      "name" : "screenshot",
+      "source" : "e6354f90604f62f9.png",
+      "type" : "image/png",
+      "size" : 345348
+    }, {
+      "uid" : "5a4177dddb2646c6",
+      "name" : "screenshot",
+      "source" : "5a4177dddb2646c6.png",
+      "type" : "image/png",
+      "size" : 348423
+    }, {
+      "uid" : "d9b5eba8425a54e3",
+      "name" : "screenshot",
+      "source" : "d9b5eba8425a54e3.png",
+      "type" : "image/png",
+      "size" : 162650
+    }, {
+      "uid" : "4b546a30a3b65f5a",
+      "name" : "stdout",
+      "source" : "4b546a30a3b65f5a.txt",
+      "type" : "text/plain",
+      "size" : 50
+    }, {
+      "uid" : "b2a7b053d458f27e",
+      "name" : "stdout",
+      "source" : "b2a7b053d458f27e.txt",
+      "type" : "text/plain",
+      "size" : 54
+    }, {
+      "uid" : "27d22eae1bb3f90d",
+      "name" : "stdout",
+      "source" : "27d22eae1bb3f90d.txt",
+      "type" : "text/plain",
+      "size" : 70
+    }, {
+      "uid" : "923cef0d0ab9a4e3",
+      "name" : "stdout",
+      "source" : "923cef0d0ab9a4e3.txt",
+      "type" : "text/plain",
+      "size" : 66
+    }, {
+      "uid" : "e6a6c2e215144c95",
+      "name" : "stdout",
+      "source" : "e6a6c2e215144c95.txt",
+      "type" : "text/plain",
+      "size" : 68
+    }, {
+      "uid" : "a0abc1037737220d",
+      "name" : "stdout",
+      "source" : "a0abc1037737220d.txt",
+      "type" : "text/plain",
+      "size" : 72
+    }, {
+      "uid" : "110516927cff0137",
+      "name" : "stdout",
+      "source" : "110516927cff0137.txt",
+      "type" : "text/plain",
+      "size" : 74
+    }, {
+      "uid" : "1973645631c52e63",
+      "name" : "stdout",
+      "source" : "1973645631c52e63.txt",
+      "type" : "text/plain",
+      "size" : 70
+    }, {
+      "uid" : "a189299d8a445fee",
+      "name" : "stdout",
+      "source" : "a189299d8a445fee.txt",
+      "type" : "text/plain",
+      "size" : 42
+    }, {
+      "uid" : "113668db8dcb1e00",
+      "name" : "stdout",
+      "source" : "113668db8dcb1e00.txt",
+      "type" : "text/plain",
+      "size" : 52
+    }, {
+      "uid" : "192059ae8dc1677b",
+      "name" : "stdout",
+      "source" : "192059ae8dc1677b.txt",
+      "type" : "text/plain",
+      "size" : 56
+    }, {
+      "uid" : "c7145fe6777c5e1e",
+      "name" : "stdout",
+      "source" : "c7145fe6777c5e1e.txt",
+      "type" : "text/plain",
+      "size" : 86
+    }, {
+      "uid" : "d1ab0d22a050a1e5",
+      "name" : "stdout",
+      "source" : "d1ab0d22a050a1e5.txt",
+      "type" : "text/plain",
+      "size" : 85
+    }, {
+      "uid" : "830fe6cfe5b833b1",
+      "name" : "stdout",
+      "source" : "830fe6cfe5b833b1.txt",
+      "type" : "text/plain",
+      "size" : 88
+    }, {
+      "uid" : "e6812bbf1b4bef0a",
+      "name" : "stdout",
+      "source" : "e6812bbf1b4bef0a.txt",
+      "type" : "text/plain",
+      "size" : 86
+    }, {
+      "uid" : "c16cb3a5d484816a",
+      "name" : "stdout",
+      "source" : "c16cb3a5d484816a.txt",
+      "type" : "text/plain",
+      "size" : 83
+    }, {
+      "uid" : "b53dfa9cf9e5a520",
+      "name" : "stdout",
+      "source" : "b53dfa9cf9e5a520.txt",
+      "type" : "text/plain",
+      "size" : 90
+    }, {
+      "uid" : "3ff42a363894c4a3",
+      "name" : "stdout",
+      "source" : "3ff42a363894c4a3.txt",
+      "type" : "text/plain",
+      "size" : 89
+    }, {
+      "uid" : "a1dfda6a52e63cab",
+      "name" : "stdout",
+      "source" : "a1dfda6a52e63cab.txt",
+      "type" : "text/plain",
+      "size" : 92
+    }, {
+      "uid" : "a9dc10826fb5779b",
+      "name" : "stdout",
+      "source" : "a9dc10826fb5779b.txt",
+      "type" : "text/plain",
+      "size" : 90
+    }, {
+      "uid" : "1c5064b6abfa3d66",
+      "name" : "stdout",
+      "source" : "1c5064b6abfa3d66.txt",
+      "type" : "text/plain",
+      "size" : 87
+    }, {
+      "uid" : "c9e116a5fe795820",
+      "name" : "stdout",
+      "source" : "c9e116a5fe795820.txt",
+      "type" : "text/plain",
+      "size" : 29
+    }, {
+      "uid" : "8688e843d346626d",
+      "name" : "stdout",
+      "source" : "8688e843d346626d.txt",
+      "type" : "text/plain",
+      "size" : 70
+    }, {
+      "uid" : "63738d028ea92d1f",
+      "name" : "stdout",
+      "source" : "63738d028ea92d1f.txt",
+      "type" : "text/plain",
+      "size" : 70
+    }, {
+      "uid" : "3d40f84d55a1084d",
+      "name" : "stdout",
+      "source" : "3d40f84d55a1084d.txt",
+      "type" : "text/plain",
+      "size" : 68
+    }, {
+      "uid" : "c732d2e9a219f25b",
+      "name" : "stdout",
+      "source" : "c732d2e9a219f25b.txt",
+      "type" : "text/plain",
+      "size" : 73
+    }, {
+      "uid" : "15025361a7198db6",
+      "name" : "stdout",
+      "source" : "15025361a7198db6.txt",
+      "type" : "text/plain",
+      "size" : 110
+    }, {
+      "uid" : "35b0fb26599ee220",
+      "name" : "stdout",
+      "source" : "35b0fb26599ee220.txt",
+      "type" : "text/plain",
+      "size" : 74
+    }, {
+      "uid" : "3ab2818b14586e02",
+      "name" : "stdout",
+      "source" : "3ab2818b14586e02.txt",
+      "type" : "text/plain",
+      "size" : 74
+    }, {
+      "uid" : "5c0abe74e2984568",
+      "name" : "stdout",
+      "source" : "5c0abe74e2984568.txt",
+      "type" : "text/plain",
+      "size" : 72
+    }, {
+      "uid" : "d1e572f2ec486095",
+      "name" : "stdout",
+      "source" : "d1e572f2ec486095.txt",
+      "type" : "text/plain",
+      "size" : 77
+    }, {
+      "uid" : "ac40909417ecc24f",
+      "name" : "stdout",
+      "source" : "ac40909417ecc24f.txt",
+      "type" : "text/plain",
+      "size" : 9
+    }, {
+      "uid" : "91a0baa94f75aec2",
+      "name" : "stdout",
+      "source" : "91a0baa94f75aec2.txt",
+      "type" : "text/plain",
+      "size" : 114
+    }, {
+      "uid" : "aa3e56ace0025bb1",
+      "name" : "stdout",
+      "source" : "aa3e56ace0025bb1.txt",
+      "type" : "text/plain",
+      "size" : 15
+    }, {
+      "uid" : "b9f12aab979a6610",
+      "name" : "stdout",
+      "source" : "b9f12aab979a6610.txt",
+      "type" : "text/plain",
+      "size" : 61
+    }, {
+      "uid" : "99501248c3b336",
+      "name" : "stdout",
+      "source" : "99501248c3b336.txt",
+      "type" : "text/plain",
+      "size" : 33
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "attachmentsCount" : 39,
+    "stepsCount" : 12,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "UIBasicstest.spec.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2da7c46cdb4d3c7.json",
+  "parameterValues" : [ ]
+}

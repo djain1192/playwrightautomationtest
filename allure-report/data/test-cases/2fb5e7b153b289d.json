@@ -1,0 +1,237 @@
+{
+  "uid" : "2fb5e7b153b289d",
+  "name" : "Invalid Login details Playwright test",
+  "fullName" : "Invalid Login details Playwright test",
+  "historyId" : " UIBasicstest.spec.js Invalid Login details Playwright test",
+  "time" : {
+    "start" : 1656414968720,
+    "stop" : 1656414975555,
+    "duration" : 6835
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1656414968720,
+        "stop" : 1656414968764,
+        "duration" : 44
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "browserContext.newPage",
+      "time" : {
+        "start" : 1656414968823,
+        "stop" : 1656414969736,
+        "duration" : 913
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "page.goto(https://rahulshettyacademy.com/loginpagePractise/)",
+      "time" : {
+        "start" : 1656414969737,
+        "stop" : 1656414972069,
+        "duration" : 2332
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "page.title",
+      "time" : {
+        "start" : 1656414972069,
+        "stop" : 1656414972085,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.type(#username, rahulshetty)",
+      "time" : {
+        "start" : 1656414972086,
+        "stop" : 1656414972420,
+        "duration" : 334
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.type([type='password'], learning)",
+      "time" : {
+        "start" : 1656414972421,
+        "stop" : 1656414972736,
+        "duration" : 315
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.click(#signInBtn)",
+      "time" : {
+        "start" : 1656414972738,
+        "stop" : 1656414972919,
+        "duration" : 181
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.textContent([style*='block'])",
+      "time" : {
+        "start" : 1656414972920,
+        "stop" : 1656414974918,
+        "duration" : 1998
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "expect.toContainText",
+      "time" : {
+        "start" : 1656414974919,
+        "stop" : 1656414974972,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1656414974972,
+        "stop" : 1656414975552,
+        "duration" : 580
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "38c732bd19c218a4",
+      "name" : "screenshot",
+      "source" : "38c732bd19c218a4.png",
+      "type" : "image/png",
+      "size" : 344496
+    }, {
+      "uid" : "ef141ee377f27c36",
+      "name" : "screenshot",
+      "source" : "ef141ee377f27c36.png",
+      "type" : "image/png",
+      "size" : 360292
+    }, {
+      "uid" : "8e9ead523967f63f",
+      "name" : "stdout",
+      "source" : "8e9ead523967f63f.txt",
+      "type" : "text/plain",
+      "size" : 42
+    }, {
+      "uid" : "c88cdfdd1dab3038",
+      "name" : "stdout",
+      "source" : "c88cdfdd1dab3038.txt",
+      "type" : "text/plain",
+      "size" : 29
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "attachmentsCount" : 4,
+    "stepsCount" : 10,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "UIBasicstest.spec.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d6239c33b0eb77a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414909097,
+        "stop" : 1656414914855,
+        "duration" : 5758
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2fb5e7b153b289d.json",
+  "parameterValues" : [ ]
+}

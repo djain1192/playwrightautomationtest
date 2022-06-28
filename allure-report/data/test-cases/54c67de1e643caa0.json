@@ -1,0 +1,240 @@
+{
+  "uid" : "54c67de1e643caa0",
+  "name" : "Child windows hadl",
+  "fullName" : "Child windows hadl",
+  "historyId" : " UIBasicstest.spec.js Child windows hadl",
+  "time" : {
+    "start" : 1656414987271,
+    "stop" : 1656414991216,
+    "duration" : 3945
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1656414987271,
+        "stop" : 1656414987272,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "browserContext.newPage",
+      "time" : {
+        "start" : 1656414987280,
+        "stop" : 1656414987729,
+        "duration" : 449
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "page.goto(https://rahulshettyacademy.com/loginpagePractise/)",
+      "time" : {
+        "start" : 1656414987730,
+        "stop" : 1656414988949,
+        "duration" : 1219
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "browserContext.waitForEvent",
+      "time" : {
+        "start" : 1656414988953,
+        "stop" : 1656414989351,
+        "duration" : 398
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.click([href*='documents-request'])",
+      "time" : {
+        "start" : 1656414988955,
+        "stop" : 1656414989189,
+        "duration" : 234
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.textContent(.red)",
+      "time" : {
+        "start" : 1656414989352,
+        "stop" : 1656414990201,
+        "duration" : 849
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.type(#username, rahulshettyacademy.com)",
+      "time" : {
+        "start" : 1656414990201,
+        "stop" : 1656414990302,
+        "duration" : 101
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "locator.textContent(#username)",
+      "time" : {
+        "start" : 1656414990302,
+        "stop" : 1656414990313,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1656414990313,
+        "stop" : 1656414991210,
+        "duration" : 897
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b985055421c65670",
+      "name" : "screenshot",
+      "source" : "b985055421c65670.png",
+      "type" : "image/png",
+      "size" : 340908
+    }, {
+      "uid" : "3833b8852d3f125b",
+      "name" : "screenshot",
+      "source" : "3833b8852d3f125b.png",
+      "type" : "image/png",
+      "size" : 350276
+    }, {
+      "uid" : "fe0638ffcd458da2",
+      "name" : "screenshot",
+      "source" : "fe0638ffcd458da2.png",
+      "type" : "image/png",
+      "size" : 162650
+    }, {
+      "uid" : "3538da8acbb64103",
+      "name" : "screenshot",
+      "source" : "3538da8acbb64103.png",
+      "type" : "image/png",
+      "size" : 348000
+    }, {
+      "uid" : "24db85453372bc78",
+      "name" : "screenshot",
+      "source" : "24db85453372bc78.png",
+      "type" : "image/png",
+      "size" : 8902
+    }, {
+      "uid" : "1820ddaa8233ab1f",
+      "name" : "stdout",
+      "source" : "1820ddaa8233ab1f.txt",
+      "type" : "text/plain",
+      "size" : 23
+    }, {
+      "uid" : "20f686846133d685",
+      "name" : "stdout",
+      "source" : "20f686846133d685.txt",
+      "type" : "text/plain",
+      "size" : 1
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "attachmentsCount" : 7,
+    "stepsCount" : 9,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "UIBasicstest.spec.js"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fc81d663c591c41f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656414925594,
+        "stop" : 1656414929476,
+        "duration" : 3882
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54c67de1e643caa0.json",
+  "parameterValues" : [ ]
+}
